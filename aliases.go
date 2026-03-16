@@ -3,8 +3,8 @@
 package deeptable
 
 import (
-	"github.com/stainless-sdks/deeptable-go/internal/apierror"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/internal/apierror"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 )
 
 // aliased to make [param.APIUnion] private when embedding

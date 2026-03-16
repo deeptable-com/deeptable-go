@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/stainless-sdks/deeptable-go/internal/requestconfig"
-	"github.com/stainless-sdks/deeptable-go/option"
+	"github.com/deeptable-com/deeptable-go/internal/requestconfig"
+	"github.com/deeptable-com/deeptable-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc

@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/deeptable-go/internal/encoding/json/sentinel"
+	"github.com/deeptable-com/deeptable-go/internal/encoding/json/sentinel"
 	"reflect"
 )
 

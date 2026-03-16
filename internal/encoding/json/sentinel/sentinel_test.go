@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/deeptable-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/internal/encoding/json/sentinel"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 	"reflect"
 	"slices"
 	"testing"

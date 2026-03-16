@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/packages/respjson"
 	"reflect"
 )
 
