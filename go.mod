@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/deeptable-go
+module github.com/deeptable-com/deeptable-go
 
 go 1.22
 

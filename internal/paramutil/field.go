@@ -1,8 +1,8 @@
 package paramutil
 
 import (
-	"github.com/stainless-sdks/deeptable-go/packages/param"
-	"github.com/stainless-sdks/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/respjson"
 )
 
 func AddrIfPresent[T comparable](v param.Opt[T]) *T {

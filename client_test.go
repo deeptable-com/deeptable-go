@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/deeptable-go"
-	"github.com/stainless-sdks/deeptable-go/internal"
-	"github.com/stainless-sdks/deeptable-go/option"
+	"github.com/deeptable-com/deeptable-go"
+	"github.com/deeptable-com/deeptable-go/internal"
+	"github.com/deeptable-com/deeptable-go/option"
 )
 
 type closureTransport struct {

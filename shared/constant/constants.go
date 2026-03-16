@@ -3,7 +3,7 @@
 package constant
 
 import (
-	shimjson "github.com/stainless-sdks/deeptable-go/internal/encoding/json"
+	shimjson "github.com/deeptable-com/deeptable-go/internal/encoding/json"
 )
 
 type Constant[T any] interface {

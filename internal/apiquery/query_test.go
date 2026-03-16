@@ -1,7 +1,7 @@
 package apiquery
 
 import (
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 	"net/url"
 	"testing"
 	"time"

@@ -7,7 +7,7 @@ package apijson
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 	"reflect"
 	"strconv"
 	"sync"

@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/stainless-sdks/deeptable-go/internal/encoding/json"
+	shimjson "github.com/deeptable-com/deeptable-go/internal/encoding/json"
 	"time"
 )
 

@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/stainless-sdks/deeptable-go/internal/apijson"
-	"github.com/stainless-sdks/deeptable-go/internal/requestconfig"
-	"github.com/stainless-sdks/deeptable-go/option"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
-	"github.com/stainless-sdks/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/internal/apijson"
+	"github.com/deeptable-com/deeptable-go/internal/requestconfig"
+	"github.com/deeptable-com/deeptable-go/option"
+	"github.com/deeptable-com/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/respjson"
 )
 
 // aliased to make [param.APIUnion] private when embedding
