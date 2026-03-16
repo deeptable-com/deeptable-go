@@ -1,7 +1,7 @@
 package sentinel
 
 import (
-	"github.com/stainless-sdks/deeptable-go/internal/encoding/json/shims"
+	"github.com/deeptable-com/deeptable-go/internal/encoding/json/shims"
 	"reflect"
 	"sync"
 )

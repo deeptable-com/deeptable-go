@@ -3,8 +3,8 @@ package apijson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/deeptable-go/internal/apijson"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/internal/apijson"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 	"reflect"
 	"testing"
 )

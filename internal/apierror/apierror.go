@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/stainless-sdks/deeptable-go/internal/apijson"
-	"github.com/stainless-sdks/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/internal/apijson"
+	"github.com/deeptable-com/deeptable-go/packages/respjson"
 )
 
 // Error represents an error that originates from the API, i.e. when a request is

@@ -12,9 +12,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/deeptable-go"
-	"github.com/stainless-sdks/deeptable-go/internal/testutil"
-	"github.com/stainless-sdks/deeptable-go/option"
+	"github.com/deeptable-com/deeptable-go"
+	"github.com/deeptable-com/deeptable-go/internal/testutil"
+	"github.com/deeptable-com/deeptable-go/option"
 )
 
 func TestStructuredSheetTableGet(t *testing.T) {

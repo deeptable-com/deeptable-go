@@ -2,8 +2,8 @@ package apijson_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/deeptable-go/internal/apijson"
-	"github.com/stainless-sdks/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/internal/apijson"
+	"github.com/deeptable-com/deeptable-go/packages/respjson"
 	"testing"
 )
 

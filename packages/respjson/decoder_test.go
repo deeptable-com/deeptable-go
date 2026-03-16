@@ -3,8 +3,8 @@ package respjson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/deeptable-go/internal/apijson"
-	rj "github.com/stainless-sdks/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/internal/apijson"
+	rj "github.com/deeptable-com/deeptable-go/packages/respjson"
 	"reflect"
 	"testing"
 )

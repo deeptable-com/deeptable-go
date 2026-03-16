@@ -2,7 +2,7 @@ package param_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/param"
 	"testing"
 )
 

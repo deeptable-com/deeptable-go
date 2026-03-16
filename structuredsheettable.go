@@ -11,14 +11,14 @@ import (
 	"slices"
 	"time"
 
-	"github.com/stainless-sdks/deeptable-go/internal/apijson"
-	"github.com/stainless-sdks/deeptable-go/internal/apiquery"
-	"github.com/stainless-sdks/deeptable-go/internal/requestconfig"
-	"github.com/stainless-sdks/deeptable-go/option"
-	"github.com/stainless-sdks/deeptable-go/packages/pagination"
-	"github.com/stainless-sdks/deeptable-go/packages/param"
-	"github.com/stainless-sdks/deeptable-go/packages/respjson"
-	"github.com/stainless-sdks/deeptable-go/shared/constant"
+	"github.com/deeptable-com/deeptable-go/internal/apijson"
+	"github.com/deeptable-com/deeptable-go/internal/apiquery"
+	"github.com/deeptable-com/deeptable-go/internal/requestconfig"
+	"github.com/deeptable-com/deeptable-go/option"
+	"github.com/deeptable-com/deeptable-go/packages/pagination"
+	"github.com/deeptable-com/deeptable-go/packages/param"
+	"github.com/deeptable-com/deeptable-go/packages/respjson"
+	"github.com/deeptable-com/deeptable-go/shared/constant"
 )
 
 // Convert uploaded spreadsheets into structured data. Creates relational tables

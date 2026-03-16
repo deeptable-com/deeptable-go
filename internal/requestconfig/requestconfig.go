@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/deeptable-go/internal"
-	"github.com/stainless-sdks/deeptable-go/internal/apierror"
-	"github.com/stainless-sdks/deeptable-go/internal/apiform"
-	"github.com/stainless-sdks/deeptable-go/internal/apiquery"
+	"github.com/deeptable-com/deeptable-go/internal"
+	"github.com/deeptable-com/deeptable-go/internal/apierror"
+	"github.com/deeptable-com/deeptable-go/internal/apiform"
+	"github.com/deeptable-com/deeptable-go/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {
