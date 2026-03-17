@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.3-beta (2026-03-17)
+
+Full Changelog: [v0.0.2-beta...v0.0.3-beta](https://github.com/deeptable-com/deeptable-go/compare/v0.0.2-beta...v0.0.3-beta)
+
+### Chores
+
+* **internal:** tweak CI branches ([d63fc49](https://github.com/deeptable-com/deeptable-go/commit/d63fc490e4a0d6105efe9ce08fe8a5ea7b0f3105))
+
 ## 0.0.2-beta (2026-03-17)
 
 Full Changelog: [v0.0.1...v0.0.2-beta](https://github.com/deeptable-com/deeptable-go/compare/v0.0.1...v0.0.2-beta)
