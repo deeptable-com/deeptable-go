@@ -28,7 +28,7 @@ Or to pin the version:
 <!-- x-release-please-start-version -->
 
 ```sh
-go get -u 'github.com/deeptable-com/deeptable-go@v0.0.1'
+go get -u 'github.com/deeptable-com/deeptable-go@v0.0.2-beta'
 ```
 
 <!-- x-release-please-end -->
