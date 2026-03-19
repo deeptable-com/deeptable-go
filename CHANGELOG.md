@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-beta.1 (2026-03-19)
+
+Full Changelog: [v0.0.3-beta...v0.1.0-beta.1](https://github.com/deeptable-com/deeptable-go/compare/v0.0.3-beta...v0.1.0-beta.1)
+
+### Chores
+
+* ignore macOS .DS_Store ([5713980](https://github.com/deeptable-com/deeptable-go/commit/57139807af15b432291bb941d0b6ec5e0fbce494))
+
 ## 0.0.3-beta (2026-03-17)
 
 Full Changelog: [v0.0.2-beta...v0.0.3-beta](https://github.com/deeptable-com/deeptable-go/compare/v0.0.2-beta...v0.0.3-beta)
