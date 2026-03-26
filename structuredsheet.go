@@ -150,7 +150,7 @@ type StructuredSheetResponse struct {
 	// The unique identifier for the source file.
 	FileID string `json:"file_id" api:"required"`
 	// The object type, which is always 'structured_sheet'.
-	Object constant.StructuredSheet `json:"object" api:"required"`
+	Object constant.StructuredSheet `json:"object" default:"structured_sheet"`
 	// The current processing status.
 	//
 	// Any of "queued", "in_progress", "completed", "failed", "cancelled".
@@ -227,7 +227,7 @@ type StructuredSheetDeleteResponse struct {
 	// Whether the structured sheet was successfully deleted.
 	Deleted bool `json:"deleted" api:"required"`
 	// The object type, which is always 'structured_sheet'.
-	Object constant.StructuredSheet `json:"object" api:"required"`
+	Object constant.StructuredSheet `json:"object" default:"structured_sheet"`
 	// JSON contains metadata for fields, check presence with [respjson.Field.Valid].
 	JSON struct {
 		ID          respjson.Field
