@@ -133,7 +133,7 @@ type File struct {
 	// The original filename of the uploaded file.
 	FileName string `json:"file_name" api:"required"`
 	// The object type, which is always 'file'.
-	Object constant.File `json:"object" api:"required"`
+	Object constant.File `json:"object" default:"file"`
 	// The size of the file in bytes.
 	Size int64 `json:"size" api:"required"`
 	// JSON contains metadata for fields, check presence with [respjson.Field.Valid].
@@ -164,7 +164,7 @@ type FileDeleteResponse struct {
 	// Whether the file was successfully deleted.
 	Deleted bool `json:"deleted" api:"required"`
 	// The object type, which is always 'file'.
-	Object constant.File `json:"object" api:"required"`
+	Object constant.File `json:"object" default:"file"`
 	// JSON contains metadata for fields, check presence with [respjson.Field.Valid].
 	JSON struct {
 		ID          respjson.Field
