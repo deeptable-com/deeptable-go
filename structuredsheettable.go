@@ -127,7 +127,7 @@ type TableResponse struct {
 	// Example: 'staffing**head_count' or 'staffing**head_count\_\_aggregations'.
 	Name string `json:"name" api:"required"`
 	// The object type, which is always 'table'.
-	Object constant.Table `json:"object" api:"required"`
+	Object constant.Table `json:"object" default:"table"`
 	// The original Excel sheet name this table came from.
 	SheetName string `json:"sheet_name" api:"required"`
 	// The ID of the structured sheet this table belongs to.
