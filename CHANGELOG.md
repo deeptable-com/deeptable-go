@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-beta.3 (2026-03-28)
+
+Full Changelog: [v0.1.0-beta.2...v0.1.0-beta.3](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.2...v0.1.0-beta.3)
+
+### Chores
+
+* **ci:** support opting out of skipping builds on metadata-only commits ([472e496](https://github.com/deeptable-com/deeptable-go/commit/472e496f0f44030a1f89de86e622cbba38a1e816))
+* update docs for api:"required" ([909f08c](https://github.com/deeptable-com/deeptable-go/commit/909f08cc96054e36eff747dff159b5e6d37edef4))
+
 ## 0.1.0-beta.2 (2026-03-27)
 
 Full Changelog: [v0.1.0-beta.1...v0.1.0-beta.2](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.1...v0.1.0-beta.2)
