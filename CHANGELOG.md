@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-beta.4 (2026-04-23)
+
+Full Changelog: [v0.1.0-beta.3...v0.1.0-beta.4](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.3...v0.1.0-beta.4)
+
+### Chores
+
+* **internal:** more robust bootstrap script ([96e728f](https://github.com/deeptable-com/deeptable-go/commit/96e728f630461b39428409cb89d46a01f8e4bc84))
+
 ## 0.1.0-beta.3 (2026-03-28)
 
 Full Changelog: [v0.1.0-beta.2...v0.1.0-beta.3](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.2...v0.1.0-beta.3)
