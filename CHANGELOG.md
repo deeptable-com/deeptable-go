@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-beta.5 (2026-04-30)
+
+Full Changelog: [v0.1.0-beta.4...v0.1.0-beta.5](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.4...v0.1.0-beta.5)
+
+### Features
+
+* **go:** add default http client with timeout ([c2c7758](https://github.com/deeptable-com/deeptable-go/commit/c2c7758cfa82e765d9a2720b7c36ccecab168dc7))
+* support setting headers via env ([16e3743](https://github.com/deeptable-com/deeptable-go/commit/16e37430ce1ab578287a4e908151475b01210571))
+
 ## 0.1.0-beta.4 (2026-04-23)
 
 Full Changelog: [v0.1.0-beta.3...v0.1.0-beta.4](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.3...v0.1.0-beta.4)
