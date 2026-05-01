@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-beta.6 (2026-05-01)
+
+Full Changelog: [v0.1.0-beta.5...v0.1.0-beta.6](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.5...v0.1.0-beta.6)
+
+### Chores
+
+* avoid embedding reflect.Type for dead code elimination ([ee76759](https://github.com/deeptable-com/deeptable-go/commit/ee76759f07f8b972e0304169abadfbd4151668cd))
+
 ## 0.1.0-beta.5 (2026-04-30)
 
 Full Changelog: [v0.1.0-beta.4...v0.1.0-beta.5](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.4...v0.1.0-beta.5)
