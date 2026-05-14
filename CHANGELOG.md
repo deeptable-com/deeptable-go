@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.0-beta.6 (2026-05-14)
+
+Full Changelog: [v0.1.0-beta.5...v0.1.0-beta.6](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.5...v0.1.0-beta.6)
+
+### Features
+
+* **client:** optimize json encoder for internal types ([4a1187f](https://github.com/deeptable-com/deeptable-go/commit/4a1187f0b03f2b206f3fc3e5e9fcbe16325f7de7))
+
+
+### Bug Fixes
+
+* **go:** avoid panic when http.DefaultTransport is wrapped ([ee92ca2](https://github.com/deeptable-com/deeptable-go/commit/ee92ca23e3114d0b4758bcfa85a31d5dd0de5d29))
+
+
+### Chores
+
+* avoid embedding reflect.Type for dead code elimination ([ee76759](https://github.com/deeptable-com/deeptable-go/commit/ee76759f07f8b972e0304169abadfbd4151668cd))
+* redact api-key headers in debug logs ([feb1009](https://github.com/deeptable-com/deeptable-go/commit/feb100948ad8cfd202872a9f1814946829f035e1))
+
 ## 0.1.0-beta.5 (2026-04-30)
 
 Full Changelog: [v0.1.0-beta.4...v0.1.0-beta.5](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.4...v0.1.0-beta.5)
