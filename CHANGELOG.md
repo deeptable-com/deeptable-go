@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-beta.7 (2026-07-18)
+
+Full Changelog: [v0.1.0-beta.6...v0.1.0-beta.7](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.6...v0.1.0-beta.7)
+
+### Features
+
+* **stlc:** configurable CI runner and private-production-repo support in workflow templates ([c071182](https://github.com/deeptable-com/deeptable-go/commit/c07118263a2cd1c30781a16629a965610913b144))
+
 ## 0.1.0-beta.6 (2026-05-14)
 
 Full Changelog: [v0.1.0-beta.5...v0.1.0-beta.6](https://github.com/deeptable-com/deeptable-go/compare/v0.1.0-beta.5...v0.1.0-beta.6)
